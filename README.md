@@ -1,6 +1,18 @@
-# Suivi des manques d'attributions
+# attributions
 
-Ce dépôt Git est destiné au suivi des manques d'attributions sur les utilisations de carte utilisant OpenStreetMap. Il est proposé en remplacement (non exclusif) du (peu ergonomique) [Wiki](https://wiki.openstreetmap.org/wiki/FR:Manque_d%27attribution_appropri%C3%A9e) utilisé jusqu'à présent.
+## Pourquoi ?
+
+La licence ODbL impose aux réutilisateurs des données OpenStreetMap de mentionner la source (et de respecter le partage à l'identique).
+
+La communauté des contributeurs OpenStreetMap est très attachée au respect de l'attribution car:
+- c'est une façon de dire merci
+- c'est une façon de rendre le projet OpenStreetMap visible et de faire naitre de nouvelles vocations de contributeurs... et donc d'alimenter un cercle vertueux.
+
+**"Oublier" l'attribution casse le cercle vertueux du commun.**
+
+## Comment ?
+
+Ce dépôt git est destiné au suivi des manques d'attributions sur les utilisations de carte utilisant OpenStreetMap.
 
 Ce suivi est fait à l'aide des [« issues »](https://github.com/osm-fr/attributions/issues).
 
