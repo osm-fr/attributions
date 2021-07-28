@@ -30,8 +30,8 @@ body:
         - **Avec attribution** *« © les contributeurs d’OpenStreetMap »...*
   - type: checkboxes
     id: verifications
-    label: Vérifications
     attributes:
+      label: Vérifications
       options:
         - label: Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
         - label: Une interaction est nécessaire pour afficher l'attribution
