@@ -1,8 +1,9 @@
 name: "[Expérimental – .yml] Manque d'attribution"
 description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
-title: ''
-labels: ''
-assignees: ''
+title: "Manque d'attribution"
+labels: [bug,enhancement]
+assignees:
+- cquest
 body:
   - type: input
     id: concerne
