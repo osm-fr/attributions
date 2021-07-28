@@ -22,8 +22,14 @@ body:
         - Avec attribution
     validations:
       required: true
+  - type: markdown
+  attributes:
+    value: |
+      - Pas d'attribution
+      - **Attribution partielle** Ex : '© OSM'
+      - **Avec attribution** Ex : '© les contributeurs d’OpenStreetMap'
   - type: checkboxes
-    id: lien
+    id: verifications
     attributes:
       options:
         - label: Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
@@ -39,8 +45,6 @@ body:
         - CyclOSM
         - Humanitaire
         - OpenRiverboatMap
-        - Mapbox
-        - Maptiler
         - Autre/inconnu
   - type: checkboxes
     id: contact
@@ -52,6 +56,9 @@ body:
     attributes:
       label: Informations concernant la prise de contact
       description: Quand, comment (Twitter, email...), quelle était (brièvement) la réponse...
+      value: |
+        1. Contacté le :
+        2. Par (email, Twitter...) :
   - type: textarea
     id: commentaire
     attributes:
