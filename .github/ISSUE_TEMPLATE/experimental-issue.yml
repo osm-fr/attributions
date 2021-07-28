@@ -17,23 +17,28 @@ body:
       label: Présence de l'attribution
       description: L'attribution est-elle présente ?
       options:
-        - Pas d'attribution
-        - Attribution partielle
-        - Avec attribution
+        - ❌ Pas d'attribution
+        - ⚠️ Attribution partielle
+        - ✔️ Avec attribution
     validations:
       required: true
   - type: markdown
     attributes:
       value: |
-        - Pas d'attribution
-        - **Attribution partielle** Ex : '© OSM'
-        - **Avec attribution** Ex : '© les contributeurs d’OpenStreetMap'
+        - **Pas d'attribution**
+        - **Attribution partielle** *« © OSM »...*
+        - **Avec attribution** *« © les contributeurs d’OpenStreetMap »...*
   - type: checkboxes
     id: verifications
+    label: Vérifications
     attributes:
       options:
         - label: Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
         - label: Une interaction est nécessaire pour afficher l'attribution
+  - type: markdown
+    attributes:
+      value: |
+        - Interaction : L'utilisateur doit effectuer une action pour voir l'attribution. (Survoler/cliquer sur un bouton ℹ, un lien...)
   - type: dropdown
     id: tuiles
     attributes:
@@ -57,8 +62,8 @@ body:
       label: Informations concernant la prise de contact
       description: Quand, comment (Twitter, email...), quelle était (brièvement) la réponse...
       value: |
-        1. Contacté le :
-        2. Par (email, Twitter...) :
+        - Contacté le :
+        - Par (email, Twitter...) :
   - type: textarea
     id: commentaire
     attributes:
