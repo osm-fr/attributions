@@ -1,9 +1,10 @@
 ---
 name: [Expérimental – .md] Manque d'attribution
 about: Sans attribution, incomplète, difficile à trouver, demande une interaction particulière...
-title: ''
-labels: ''
-assignees: ''
+title: "Manque d'attribution"
+labels: [bug,enhancement]
+assignees:
+- cquest
 
 ---
 
