@@ -1,14 +1,14 @@
-# attributions
+# Attributions
 
 ## Pourquoi ?
 
 La licence ODbL impose aux réutilisateurs des données OpenStreetMap de mentionner la source (et de respecter le partage à l'identique).
 
-La communauté des contributeurs OpenStreetMap est très attachée au respect de l'attribution car:
+La communauté des contributeurs OpenStreetMap est très attachée au respect de l'attribution car :
 - c'est une façon de dire merci
-- c'est une façon de rendre le projet OpenStreetMap visible et de faire naitre de nouvelles vocations de contributeurs... et donc d'alimenter un cercle vertueux.
+- c'est une façon de rendre le projet OpenStreetMap visible et de faire naitre de nouvelles vocations de contributeurs… et donc d'alimenter un cercle vertueux.
 
-**"Oublier" l'attribution casse le cercle vertueux du commun.**
+**« Oublier » l'attribution casse le cercle vertueux du commun.**
 
 ## Comment ?
 
@@ -20,7 +20,7 @@ Ce suivi est fait à l'aide des [« issues »](https://github.com/osm-fr/attribu
 Pour ajouter un nouveau manque d'attribution sur une carte :
 1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new/choose)**
 2. **Ajoutez un titre**  
-    `Site de la ville de Paris – Pas d'attribution`  
+    `paris.fr – Pas d'attribution`  
     `[Agence ComWeb] 5 sites sans attribution`  
     `...`
 3. **Détaillez-la**
@@ -39,6 +39,10 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
 - Remplacement de la mention par celle du fournisseur de tuiles
   `Mapbox`  
   `© Groupe AC3`
+
+- Autres
+  `© Open Street Map`
+  `© OSM`
 
 ## Ressources
 - [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
