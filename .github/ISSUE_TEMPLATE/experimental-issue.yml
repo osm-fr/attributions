@@ -27,10 +27,6 @@ body:
     attributes:
       options:
         - label: Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
-  - type: checkboxes
-    id: interaction
-    attributes:
-      options:
         - label: Une interaction est nécessaire pour afficher l'attribution
   - type: dropdown
     id: tuiles
