@@ -1,6 +1,6 @@
 name: "[Expérimental – .yml] Manque d'attribution"
 description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
-title: "Manque d'attribution"
+title: "Titre du signalement"
 labels: [bug,enhancement]
 assignees:
 - cquest
@@ -10,7 +10,7 @@ body:
     attributes:
       label: Ce signalement concerne...
       description: Pour signaler un site Web, une application, un magazine, une pancarte...
-      placeholder: 'Ex : https://exemple.fr/carte.html...'
+      placeholder: 'https://exemple.fr/carte.html...'
   - type: dropdown
     id: presence
     attributes:
@@ -25,9 +25,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        - **Pas d'attribution**
-        - **Attribution partielle** *« © OSM »...*
-        - **Avec attribution** *« © les contributeurs d’OpenStreetMap »...*
+        - ❌ **Pas d'attribution**
+        - ⚠️ **Attribution partielle** *« © OSM »...*
+        - ✔️ **Avec attribution** *« © les contributeurs d’OpenStreetMap »...*
   - type: checkboxes
     id: verifications
     attributes:
@@ -38,7 +38,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        - Interaction : L'utilisateur doit effectuer une action pour voir l'attribution. (Survoler/cliquer sur un bouton ℹ, un lien...)
+        - Interaction : L'utilisateur doit agir pour voir l'attribution. (Survoler/cliquer sur un bouton ℹ️, un lien...)
   - type: dropdown
     id: tuiles
     attributes:
