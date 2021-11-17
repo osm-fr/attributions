@@ -2,8 +2,6 @@ name: "[Expérimental – .yml] Manque d'attribution"
 description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
 title: "Titre du signalement"
 labels: [bug,enhancement]
-assignees:
-- cquest
 body:
   - type: input
     id: concerne
