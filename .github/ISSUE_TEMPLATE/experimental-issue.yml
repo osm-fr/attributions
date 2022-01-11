@@ -52,8 +52,9 @@ body:
 - type: checkboxes
   id: contact
   attributes:
+    label: Le responsable a-t-il été contacté ?
     options:
-      - Le responsable a été contacté
+      - label: Le responsable a été contacté
 - type: textarea
   id: contact-info
   attributes:
