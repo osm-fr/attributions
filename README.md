@@ -17,13 +17,13 @@ Ce suivi est fait à l'aide des [« issues »](https://github.com/osm-fr/attribu
 
 ## 📢 Signaler une mauvaise attribution
 Pour ajouter un nouveau manque d'attribution sur une carte :
-1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?template=attribution.yml)**
-2. **Ajoutez un titre**  
-    `paris.fr`  
-    `[Agence ComWeb]`  
+1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?template=attribution.yml)** ;
+2. **Ajoutez un titre** ;<br>
+    `paris.fr`<br>
+    `[Agence ComWeb]`<br>
     `Appli SNCF`  
     `...`
-3. **Détaillez-la**
+3. **Décrivez le problème**.
     - Adresse Web, service, produit concerné
     - Date de prise de contact (et par quel moyen ?)
 
@@ -54,25 +54,25 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
 ---
 
 ## Exemples de mauvaises attributions
-- Aucune de ces mentions  
-  `© OpenStreetMap contributors`  
-  `© OpenStreetMap`  
-  `© les contributeurs d’OpenStreetMap`  
+- Aucune de ces mentions<br>
+  `© OpenStreetMap contributors`<br>
+  `© OpenStreetMap`<br>
+  `© les contributeurs d’OpenStreetMap`<br>
   `© Contributeurs OpenStreetMap`
 
-- Remplacement de la mention par celle du fournisseur de tuiles  
-  `Mapbox`  
-  `© Groupe AC3`
+- Remplacement de la mention par celle du fournisseur de tuiles<br>
+  `Mapbox`<br>
+  `© Groupe AC3`<br>
   `Mapnik`
 
-- Autres  
-  `© Open Street Map`  
+- Autres<br>
+  `© Open Street Map`<br>
   `© OSM`
 
 ## Ressources
 - [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
 - [**Manque d'attribution appropriée** — wiki.openstreetmap.org ](https://wiki.openstreetmap.org/wiki/FR:Manque_d%27attribution_appropri%C3%A9e)
   - [**Proposition de courriel** — wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/FR:Manque_d%27attribution_appropri%C3%A9e#Proposition_de_courriel)
-- [**Legal FA** — wiki.openstreetmap.orgQ](https://wiki.openstreetmap.org/wiki/Legal_FAQ)
+- [**Legal FAQ** — wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Legal_FAQ)
 - [**Licence** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence)
   - [**Licence and Legal FAQ** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)
