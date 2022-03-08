@@ -17,7 +17,7 @@ Ce suivi est fait à l'aide des [« issues »](https://github.com/osm-fr/attribu
 
 ## 📢 Signaler une mauvaise attribution
 Pour ajouter un nouveau manque d'attribution sur une carte :
-1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?attribution.yml)**
+1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?template=attribution.yml)**
 2. **Ajoutez un titre**  
     `paris.fr`  
     `[Agence ComWeb]`  

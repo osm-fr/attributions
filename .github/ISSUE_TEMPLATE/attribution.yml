@@ -29,14 +29,16 @@ body:
   id: verifications
   attributes:
     label: Vérifications
+    multiple: true
     options:
-      - Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
+      - Il y a un lien vers openstreetmap.org/copyright
       - Le responsable a été contacté
       - Une interaction est nécessaire pour afficher l'attribution
 - type: markdown
   attributes:
     value: |
-      - Interaction = Car l'attribution est cachée, l'utilisateur doit effectuer une action pour la voir. (Survoler/cliquer sur un bouton ℹ️, un lien...)
+      - Interaction = Car l'attribution est cachée, l'utilisateur doit effectuer une action pour la voir.
+        (Survoler/cliquer sur un bouton ℹ️, un lien...)
 - type: dropdown
   id: tuiles
   attributes:
