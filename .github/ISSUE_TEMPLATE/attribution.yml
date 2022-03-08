@@ -1,0 +1,60 @@
+name: "Signaler un problème d'attribution"
+description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
+title: "👋 Titre du signalement"
+body:
+- type: input
+  id: concerne
+  attributes:
+    label: Ce signalement concerne...
+    description: Pour signaler un site Web, une application, un magazine, une pancarte...
+    placeholder: "Pancarte à Lyon ; https://exemple.fr/carte.html ; ..."
+- type: dropdown
+  id: presence
+  attributes:
+    label: Présence de l'attribution
+    description: L'attribution est-elle présente ?
+    options:
+      - ❌ Pas d'attribution
+      - ⚠️ Attribution partielle
+      - ✔️ Avec attribution
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      - ❌ **Pas d'attribution**
+      - ⚠️ **Attribution partielle** — « © OSM »...
+      - ✔️ **Avec attribution** — « © les contributeurs d’OpenStreetMap »...
+- type: dropdown
+  id: presence
+  attributes:
+    label: Vérifications
+    options:
+      - Il y a un lien vers [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
+      - Le responsable a été contacté
+      - Une interaction est nécessaire pour afficher l'attribution
+- type: markdown
+  attributes:
+    value: |
+      - Interaction = Car l'attribution est cachée, l'utilisateur doit effectuer une action pour la voir. (Survoler/cliquer sur un bouton ℹ️, un lien...)
+- type: dropdown
+  id: tuiles
+  attributes:
+    label: (Facultatif) Quel est le fournisseur de tuiles ?
+    multiple: true
+    options:
+      - openstreetmap.org
+      - openstreetmap.fr
+      - CyclOSM
+      - Humanitaire
+      - OpenRiverboatMap
+      - Autre/inconnu
+- type: textarea
+  id: informations
+  attributes:
+    label: Informations supplémentaires
+    description: Concernant la prise de contact, le lien avec d'autres signalements/agences, sources, ou toute autre information...
+    value: |
+      - Responsable contacté le :
+        - Par (courriel, Twitter...) :
+      - Signalement en lien avec l'issue #
