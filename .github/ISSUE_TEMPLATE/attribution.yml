@@ -26,7 +26,7 @@ body:
       - ⚠️ **Attribution partielle** — « © OSM »...
       - ✔️ **Avec attribution** — « © les contributeurs d’OpenStreetMap »...
 - type: dropdown
-  id: presence
+  id: verifications
   attributes:
     label: Vérifications
     options:
