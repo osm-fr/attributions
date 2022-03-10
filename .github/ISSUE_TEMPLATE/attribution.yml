@@ -2,12 +2,12 @@ name: "Signaler un problème d'attribution"
 description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
 title: "👋 Titre du signalement"
 body:
-- type: input
+- type: textarea
   id: concerne
   attributes:
     label: Ce signalement concerne...
     description: Pour signaler un site Web, une application, un magazine, une pancarte...
-    placeholder: "Pancarte à Lyon ; https://exemple.fr/carte.html ; ..."
+    value: "- [ ] "
 - type: dropdown
   id: presence
   attributes:
@@ -59,4 +59,4 @@ body:
     value: |
       - Responsable contacté le :
         - Par (courriel, Twitter...) :
-      - Signalement en lien avec l'issue #
+      - Lié au signalement : #
