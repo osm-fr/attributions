@@ -57,6 +57,6 @@ body:
     label: Informations supplémentaires
     description: Concernant la prise de contact, le lien avec d'autres signalements/agences, sources, ou toute autre information...
     value: |
-      - Responsable contacté le :
-        - Par (courriel, Twitter...) :
+      - Responsable contacté le : 
+        - Par (courriel, Twitter...) : 
       - Lié au signalement : #
