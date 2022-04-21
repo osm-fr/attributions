@@ -75,4 +75,5 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
   - [**Proposition de courriel** — wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/FR:Manque_d%27attribution_appropri%C3%A9e#Proposition_de_courriel)
 - [**Legal FAQ** — wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Legal_FAQ)
 - [**Licence** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence)
+  - [**Attribution Guidelines** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence/Attribution_Guidelines)
   - [**Licence and Legal FAQ** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)
