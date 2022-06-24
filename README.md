@@ -27,6 +27,12 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
     - Adresse Web, service, produit concerné
     - Date de prise de contact (et par quel moyen ?)
 
+### Bonne pratique
+
+| ❌ Regrouper tous les signalement d'une même agence | ✔️ Créer des signalements distincts et les lier à l'agence |
+|-----|-----|
+| ![Non](.github/ISSUE_TEMPLATE/Non.jpg) | ![Oui](.github/ISSUE_TEMPLATE/Oui.jpg) |
+
 ## Contacter le responsable
 
 <details>
