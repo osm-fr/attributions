@@ -17,13 +17,14 @@ Ce suivi est fait à l'aide des [« issues »](https://github.com/osm-fr/attribu
 
 ## 📢 Signaler une mauvaise attribution
 Pour ajouter un nouveau manque d'attribution sur une carte :
-1. **Ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?template=attribution.yml)** ;
-2. **Ajoutez un titre** ;<br>
+1. **[Vérifiez](https://github.com/osm-fr/attributions/issues?q=is%3Aissue) qu'un signalement n'existe pas déjà** ;
+2. **Sinon, ouvrez une nouvelle [« issue »](https://github.com/osm-fr/attributions/issues/new?template=attribution.yml)** ;
+3. **Ajoutez un titre** ;<br>
     `paris.fr`<br>
     `[Agence ComWeb]`<br>
     `Appli SNCF`  
     `...`
-3. **Décrivez le problème**.
+4. **Décrivez le problème**.
     - Adresse Web, service, produit concerné
     - Date de prise de contact (et par quel moyen ?)
 
