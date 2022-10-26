@@ -42,7 +42,7 @@ body:
 - type: dropdown
   id: tuiles
   attributes:
-    label: (Facultatif) Quel est le fournisseur de tuiles ?
+    label: (Facultatif) Quel est le fond de carte ?
     multiple: true
     options:
       - openstreetmap.org
