@@ -30,6 +30,7 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
 
 ### Bonne pratique
 
+**Un manquement, un signalement.** Lier les signalement d'un organisme commun grâce à un `#` suivi du nom de l'organisme.
 | ❌ Regrouper tous les signalement d'une même agence | ✔️ Créer des signalements distincts et les lier à l'agence |
 | :-: | :-: |
 | ![Non](.github/ISSUE_TEMPLATE/Non.jpg) | ![Oui](.github/ISSUE_TEMPLATE/Oui.jpg) |
