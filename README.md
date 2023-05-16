@@ -61,6 +61,14 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
 
 ---
 
+## ⚠️ Recommandations obsolètes
+
+En 2021, la Fondation OpenStreetMap a modifiée les règles concernant la mise en œuvre de l'attribution. Les recommandations et liens des paragraphes suivants peuvent être obsolètes, au contraire de celles-ci :
+- https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ
+- https://wiki.osmfoundation.org/wiki/Licence/Attribution_Guidelines
+
+---
+
 ## Exemples de mauvaises attributions
 - Aucune de ces mentions<br>
   `© OpenStreetMap contributors`<br>
