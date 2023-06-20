@@ -1,12 +1,12 @@
 name: "Signaler un problème d'attribution"
-description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière...
+description: Attribution inexistante, incomplète, difficile à trouver, nécessite une interaction particulière…
 title: "👋 Titre du signalement"
 body:
 - type: textarea
   id: concerne
   attributes:
-    label: Ce signalement concerne...
-    description: Pour signaler un site Web, une application, un magazine, une pancarte...
+    label: Ce signalement concerne…
+    description: Pour signaler un site Web, une application, un magazine, une pancarte…
     value: "- [ ] "
 - type: dropdown
   id: presence
@@ -23,8 +23,8 @@ body:
   attributes:
     value: |
       - ❌ **Pas d'attribution**
-      - ⚠️ **Attribution partielle** — « © OSM »...
-      - ✔️ **Avec attribution** — « © les contributeurs d’OpenStreetMap »...
+      - ⚠️ **Attribution partielle** — « © OSM »…
+      - ✔️ **Avec attribution** — « © les contributeurs d’OpenStreetMap »…
 - type: dropdown
   id: verifications
   attributes:
@@ -37,8 +37,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      - Interaction = Car l'attribution est cachée, l'utilisateur doit effectuer une action pour la voir.
-        (Survoler/cliquer sur un bouton ℹ️, un lien...)
+      - Interaction = car l'attribution est cachée, l'utilisateur doit effectuer une action pour la voir.
+        (Survoler/cliquer sur un bouton ℹ️, un lien…)
 - type: dropdown
   id: tuiles
   attributes:
@@ -51,12 +51,22 @@ body:
       - Humanitaire
       - OpenRiverboatMap
       - Autre/inconnu
+- type: dropdown
+  id: contact
+  attributes:
+    label: Prise de contact
+    description: Avez-vous signalé le problème au responsable ?
+    options:
+      - ❌ Je ne l'ai pas contacté
+      - ✔️ Je l'ai contacté
+  validations:
+    required: true
 - type: textarea
   id: informations
   attributes:
     label: Informations supplémentaires
-    description: Concernant la prise de contact, le lien avec d'autres signalements/agences, sources, ou toute autre information...
+    description: Concernant la prise de contact, le lien avec d'autres signalements/agences, sources, ou toute autre information…
     value: |
       - Responsable contacté le : 
-        - Par (courriel, Twitter...) : 
+        - Par (courriel, Twitter… : 
       - Lié au signalement : #
