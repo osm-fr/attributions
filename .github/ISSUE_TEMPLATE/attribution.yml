@@ -32,7 +32,6 @@ body:
     multiple: true
     options:
       - Il y a un lien vers openstreetmap.org/copyright
-      - Le responsable a été contacté
       - Une interaction est nécessaire pour afficher l'attribution
 - type: markdown
   attributes:
@@ -68,5 +67,5 @@ body:
     description: Concernant la prise de contact, le lien avec d'autres signalements/agences, sources, ou toute autre information…
     value: |
       - Responsable contacté le : 
-        - Par (courriel, Twitter… : 
+        - Responsable contacté par (courriel, Twitter…) : 
       - Lié au signalement : #
