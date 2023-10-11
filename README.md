@@ -8,7 +8,10 @@ La communauté des contributeurs OpenStreetMap est très attachée au respect de
 - C'est une façon de dire merci ;
 - C'est une façon de rendre le projet OpenStreetMap visible et de faire naitre de nouvelles vocations de contributeurs… et donc d'alimenter un cercle vertueux.
 
-**« Oublier » l'attribution casse le cercle vertueux du commun.**
+Donc :
+- **« Oublier » l'attribution casse le cercle vertueux du commun ;**  
+- La copie sans attribution est un délit de contrefaçon qui peut être puni de trois ans d'emprisonnement et de 300 000 euros d'amende (article [L335-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655082) et suivants du Code de la propriété intellectuelle).  
+  ℹ️ Un juriste doit vérifier l'exactitude des textes de référence.
 
 ## Comment ?
 
