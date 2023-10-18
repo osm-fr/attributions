@@ -44,20 +44,21 @@ Pour ajouter un nouveau manque d'attribution sur une carte :
     <summary><b>Proposition de modèle de courriel</b></summary>
   <blockquote>
   Bonjour,
-      
-  En tant que `[contributeur|contributrice]` à OpenStreetMap, je suis `content(e)` de voir que vous utilisez une carte issue d'OpenStreetMap sur votre site `adresse du site web` et plus particulièrement sur la page `adresse de la page où se situe la carte en question`.
+
+  En tant que cartographe OpenStreetMap, ça me fait plaisir de voir que vous utilisez une carte issue d'OpenStreetMap sur votre site, notamment sur : 
 
   Cependant, j'ai noté que la carte n'est pas correctement attribuée. En effet, nous demandons que votre crédit comporte la mention « © les contributeurs d’OpenStreetMap ». Vous devez également préciser clairement que les données sont disponibles sous la licence ODbL. Vous pouvez mentionner ceci avec un lien hypertexte vers https://www.openstreetmap.org/copyright.
 
-  Une attribution correcte permet de préciser les sources de la carte ou des données ainsi que ce que les utilisateurs ont le droit d'en faire. 
-
+  Une attribution correcte permet de préciser les sources de la carte ou des données ainsi que ce que les utilisateurs ont le droit d'en faire.
+  
+  Si vous n'êtes pas directement charge de la conception de ce site, vous pouvez transférer ce courriel au service ou à l'agence concernée.
   Si vous avez besoin d'aide pour effectuer la correction ou si vous avez des questions, ne pas hésiter à répondre à ce message ou à utiliser un de nos canaux de communication : https://wiki.openstreetmap.org/wiki/FR:Canaux_de_contact.
 
-  Enfin, une attribution correcte permet de diffuser l'existence d'OpenStreetMap, d'attirer de nouvelles contributions et d'étendre la communauté. C'est extrêmement important pour améliorer la qualité de la base de données en qui vous et des millions de personnes font confiance. 
+  Enfin, une attribution correcte permet de diffuser l'existence d'OpenStreetMap, d'attirer de nouvelles contributions et d'étendre la communauté. C'est extrêmement important pour améliorer la qualité de la base de données en qui vous et des millions de personnes font confiance.
 
   Lorsque la correction aura été faite, n'hésitez pas à me le signaler.
 
-  Merci.<br>
+  Merci d'avance !<br>
   `signature`
   </blockquote>
 </details>
