@@ -98,4 +98,4 @@ En 2021, la Fondation OpenStreetMap a modifiée les règles concernant la mise e
   - [**Attribution Guidelines** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence/Attribution_Guidelines)
   - [**Licence and Legal FAQ** — wiki.osmfoundation.org](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)
   - [Suivi des manques d'attributions par la fondation OpenStreetMap](https://github.com/openstreetmap/tile-attribution)
-- [Condition d'utilisation des services de tuiles de l'assocation OpenStreetMap France](https://www.openstreetmap.fr/usage/)
+- [Condition d'utilisation des services de tuiles de l'association OpenStreetMap France](https://www.openstreetmap.fr/usage/)
