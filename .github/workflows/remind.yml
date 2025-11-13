@@ -7,6 +7,9 @@ on:
    
   workflow_dispatch:
 
+permissions:
+  issues: write
+
 jobs:
   reminder:
     runs-on: ubuntu-latest
